@@ -23,7 +23,7 @@
   "license": "Unlicense",
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "electron": "^30.5.1",
+    "electron": "^39.8.5",
     "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest"
