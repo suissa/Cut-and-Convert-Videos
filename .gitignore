@@ -1,3 +1,6 @@
-.zig-cache/
+node_modules/
+dist/
 zig-out/
-*.o
+zig-cache/
+.DS_Store
+*.log
